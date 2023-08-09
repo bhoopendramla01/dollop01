@@ -1,0 +1,3 @@
+class Sts{
+  String name;
+}
