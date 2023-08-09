@@ -1,3 +1,0 @@
-class Sts{
-  String name;
-}
